@@ -16,7 +16,7 @@ function AboutMe() {
         I am an aspiring web/software developer. I am a recent University graduate in
           IT and Business and decided to take this bootcamp opportunity to enhance my knowledge in the web development
           sector.
-          <p></p>
+          </p><p>
 I have throughly  enjoyed my time on the course and now feel this is  the right time to take the next step. I  have learnt a variety 
 of different languages, programmes and  frameworks that i have put to use to build many different projects.
           You can see more of my work on {""}
